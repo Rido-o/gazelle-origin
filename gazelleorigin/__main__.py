@@ -40,7 +40,7 @@ class TrackerData:
 
 
 TRACKERS = [
-    TrackerData(base_url="https://redacted.ch",
+    TrackerData(base_url="https://redacted.sh",
             api_key_env="RED_API_KEY",
             aliases=["red", "flacsfor.me"]),
     TrackerData(base_url="https://orpheus.network",
